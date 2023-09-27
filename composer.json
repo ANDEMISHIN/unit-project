@@ -1,0 +1,11 @@
+{
+    "name": "andreymishin/unit-project",
+    "autoload": {
+        "psr-4": {
+            "Andreymishin\\UnitProject\\": "src/"
+        }
+    },
+    "require": {
+        "webmozart/assert": "^1.11"
+    }
+}
